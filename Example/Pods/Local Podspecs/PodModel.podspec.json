@@ -1,0 +1,22 @@
+{
+  "name": "PodModel",
+  "version": "0.0.1",
+  "summary": "A PodText",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/HelloWorldStap/MySpace.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zb900025": "zb900025@offcn.com"
+  },
+  "source": {
+    "git": "https://github.com/HelloWorldStap/MySpace.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodModel/Classes/**/*"
+}

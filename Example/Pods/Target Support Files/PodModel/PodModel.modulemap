@@ -1,0 +1,6 @@
+framework module PodModel {
+  umbrella header "PodModel-umbrella.h"
+
+  export *
+  module * { export * }
+}

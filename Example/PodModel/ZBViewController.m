@@ -7,7 +7,7 @@
 //
 
 #import "ZBViewController.h"
-
+#import "UIViewController+ZGVC.h"
 @interface ZBViewController ()
 
 @end
@@ -17,6 +17,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    [self addPop];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
